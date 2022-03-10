@@ -1,5 +1,5 @@
 # Hi! I'm Marco 📈 🛰️
-Geospatial Software Engineer intern @Sylvera // Data Scientist and machine learning engineer with experience in deep learning (Tensorflow), geospatial analysis (Geopandas, Rasterio, Rioxarray, Folium), data engineering (Python, SQL)  and data mining. Background in aerospace engineering with experience in growth hacking, analytics, business development and digital media products, I produced web-documentaries 📹 for social good with a small budget, reaching +2M people. I'm a sailor ⛵ and an amateur astronomer 🔭..
+Geospatial Software Engineer @Sylvera // Data Scientist and machine learning engineer with experience in deep learning (Tensorflow), geospatial analysis (Geopandas, Rasterio, Rioxarray, Folium), data engineering (Python, SQL)  and data mining. Background in aerospace engineering with experience in growth hacking, analytics, business development and digital media products, I produced web-documentaries 📹 for social good with a small budget, reaching +2M people. I'm a sailor ⛵ and an amateur astronomer 🔭..
 
 [marconasuto.com](www.marconasuto.com)
 
